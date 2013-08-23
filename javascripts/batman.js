@@ -17,7 +17,7 @@
 
   Batman.config = {
     pathPrefix: '/',
-    viewPrefix: 'views',
+    viewPrefix: 'dash/views',
     fetchRemoteViews: true,
     usePushState: false,
     minificationErrors: true
